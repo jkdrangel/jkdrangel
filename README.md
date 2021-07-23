@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jkdrangel)](https://github.com/jkdrangel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santana-carneiro-49854558/)](https://www.linkedin.com/in/lucas-santana-carneiro-49854558/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/32524/lucas-santana)](https://pt.stackoverflow.com/users/32524/lucas-santana)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jkdrangel@gmail.com)](mailto:jkdrangel@gmail.com)
 
 ## Olá! 👋
 
